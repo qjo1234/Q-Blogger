@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Q-Blogger/static/css/main.ab3634e8.chunk.css",
+    "main.js": "/Q-Blogger/static/js/main.8eebd48d.chunk.js",
+    "runtime-main.js": "/Q-Blogger/static/js/runtime-main.1b82682e.js",
+    "static/js/2.a194547e.chunk.js": "/Q-Blogger/static/js/2.a194547e.chunk.js",
+    "index.html": "/Q-Blogger/index.html",
+    "precache-manifest.aed8412d2dc4cf6a1fc6ecc889f86664.js": "/Q-Blogger/precache-manifest.aed8412d2dc4cf6a1fc6ecc889f86664.js",
+    "service-worker.js": "/Q-Blogger/service-worker.js",
+    "static/js/2.a194547e.chunk.js.LICENSE.txt": "/Q-Blogger/static/js/2.a194547e.chunk.js.LICENSE.txt",
+    "static/js/main.8eebd48d.chunk.js.LICENSE.txt": "/Q-Blogger/static/js/main.8eebd48d.chunk.js.LICENSE.txt",
+    "static/media/logo-row.jpg": "/Q-Blogger/static/media/logo-row.f58aa799.jpg",
+    "static/media/logo.png": "/Q-Blogger/static/media/logo.ed35934c.png",
+    "static/media/not-found.svg": "/Q-Blogger/static/media/not-found.df56f7c7.svg",
+    "static/media/wallpaper.svg": "/Q-Blogger/static/media/wallpaper.7a3b6203.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1b82682e.js",
+    "static/js/2.a194547e.chunk.js",
+    "static/css/main.ab3634e8.chunk.css",
+    "static/js/main.8eebd48d.chunk.js"
+  ]
+}
